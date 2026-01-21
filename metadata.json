@@ -1,0 +1,8 @@
+{
+  "name": "Sahasra Opticals - Medical & Vision Care",
+  "description": "A comprehensive healthcare and optical service platform featuring appointment booking, doctor profiles, and a full admin CMS.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
